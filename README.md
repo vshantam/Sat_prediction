@@ -36,5 +36,6 @@ You are given a training dataset, in which each row contain the student ID, SAT 
 # INSTALLATION :-
 
 Suggested to use Python3 pip version i.e pip3 to install packages.
+
 eg:- pip3 install packages_name
 
