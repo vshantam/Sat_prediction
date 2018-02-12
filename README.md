@@ -42,7 +42,7 @@ if you do not have pip3 installed in your system .
 Use this command:
 
 	sudo apt-get install python3-pip --upgrade # for pip3
-	sudo apt-get install python-pip --upgrade for pip 
+	sudo apt-get install python-pip --upgrade #for pip 
 eg:- 
 	
 	pip3 install scikit-learn #for sklearn 
