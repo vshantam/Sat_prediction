@@ -23,7 +23,7 @@ url to the dataset :- "https://www.statcrunch.com/app/index.php?dataid=1583665"
 The SAT is a test widely used for college admission in USA. People think that students that achieve high score in SAT, have also the highest GPA during college. In this competition we want to predict the average SAT cumulated by a student , based only on the GPA.
 You are given a training dataset, in which each row contain the student ID, SAT score and average GPA cumulated during college. Use this dataset for training your model and then test your model using test dataset. Each row of test dataset contain student ID and SAT score.
 
-# REQIREMENTS:
+# REQUIREMENTS:
 
 	1:- SKLEARN
 	2:- NUMPY
@@ -37,5 +37,7 @@ You are given a training dataset, in which each row contain the student ID, SAT 
 
 Suggested to use Python3 pip version i.e pip3 to install packages.
 
-eg:- pip3 install packages_name
+eg:- 
+	
+	pip3 install scikit-learn #for sklearn 
 
