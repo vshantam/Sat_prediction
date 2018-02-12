@@ -37,6 +37,12 @@ You are given a training dataset, in which each row contain the student ID, SAT 
 
 Suggested to use Python3 pip version i.e pip3 to install packages.
 
+if you do not have pip3 installed in your system .
+
+Use this command:
+
+	sudo apt-get install python3-pip --upgrade # for pip3
+	sudo apt-get install python-pip --upgrade for pip 
 eg:- 
 	
 	pip3 install scikit-learn #for sklearn 
