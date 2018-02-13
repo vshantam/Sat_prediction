@@ -47,3 +47,19 @@ eg:-
 	
 	pip3 install scikit-learn #for sklearn 
 
+# Data Plotting 
+Fitting Regression in Testing Set                                   
+![alt tag](https://github.com/vshantam/Sat_prediction/blob/master/Image/Figure_1-1.png)
+
+Fitting Regression in Training Set                        
+![alt tag](https://github.com/vshantam/Sat_prediction/blob/master/Image/Figure_1.png)
+
+Fitting Descision Tree in Testing set                    
+![alt tag](https://github.com/vshantam/Sat_prediction/blob/master/Image/Figure_3-2.png)
+
+Fitting Descision Tree in Training Set                       
+![alt tag](https://github.com/vshantam/Sat_prediction/blob/master/Image/Figure_3.png)
+
+# Learning Curve
+![alt tag](https://github.com/vshantam/Sat_prediction/blob/master/Image/Figure_4.png)
+
