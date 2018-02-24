@@ -61,7 +61,7 @@ Fitting Descision Tree in Testing set
 Fitting Descision Tree in Training Set                       
 ![alt tag](https://github.com/vshantam/Sat_prediction/blob/master/Image/Figure_3.png)
 
-	Note : The point point which lies outside the clusture is called as outlies.thes points are to be neglected.
+	Note : The point point which lies outside the clusture is called as outlier.these points are to be neglected.
 	
 # LEARNING CURVE    
 ![alt tag](https://github.com/vshantam/Sat_prediction/blob/master/Image/Figure_4.png)
