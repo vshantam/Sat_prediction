@@ -48,6 +48,7 @@ eg:-
 	pip3 install scikit-learn #for sklearn 
 
 # DATA PLOTTING
+
 Fitting Regression in Testing Set                                   
 ![alt tag](https://github.com/vshantam/Sat_prediction/blob/master/Image/Figure_1-1.png)
 
@@ -60,6 +61,8 @@ Fitting Descision Tree in Testing set
 Fitting Descision Tree in Training Set                       
 ![alt tag](https://github.com/vshantam/Sat_prediction/blob/master/Image/Figure_3.png)
 
+	Note : The point point which lies outside the clusture is called as outlies.thes points are to be neglected.
+	
 # LEARNING CURVE    
 ![alt tag](https://github.com/vshantam/Sat_prediction/blob/master/Image/Figure_4.png)
 
