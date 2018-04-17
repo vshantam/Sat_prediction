@@ -66,3 +66,6 @@ Fitting Descision Tree in Training Set
 # LEARNING CURVE    
 ![alt tag](https://github.com/vshantam/Sat_prediction/blob/master/Image/Figure_4.png)
 
+### Challenges
+
+Now we completed our assesment, one thing i needed to discuss about our algorithm is about the challanges.What are the challenges that one faces during the implementation.To understand that we need to go a little bit deeper into the algorithm and its behaviour.<br>please [click](./challanges.md) here to got to that file.
