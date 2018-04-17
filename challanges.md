@@ -40,5 +40,5 @@ As we understand the algorithm , if we see our [dataset](./gpa.csv) we may find 
   <b> It is important to understand the hypothetical parameters are fixed over the entire process , it does not matters how may times you enters the same elements to predict, it will predict the same because we are using the same Theta_1 and Theta_2 over and over again.</b>
   
   ### Solution
-  we you observe our dataset there is only one feature and one labels , to overcome our challange  it is recommended that we use more numbers of feature to our algorithms which will give the better results because the learning is based on the different parameter that we use as a features to understand the circumstances.
+if you observe our dataset there is only one feature and one labels , to overcome our challange  it is recommended that we use more numbers of feature to our algorithms which will give the better results because the learning is based on the different parameter that we use as a features to understand the different different circumstances.
  
